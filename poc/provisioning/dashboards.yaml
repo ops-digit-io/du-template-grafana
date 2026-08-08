@@ -1,0 +1,7 @@
+apiVersion: 1
+providers:
+  - name: 'UC-XXXX-XXXX'
+    folder: 'PoC'
+    type: file
+    options:
+      path: /var/lib/grafana/dashboards
